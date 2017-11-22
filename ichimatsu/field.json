@@ -21,7 +21,7 @@
       "stage_id": 1,
       "line_x": 3,
       "line_y": 1,
-      "cell_type": 1,
+      "cell_type": 2,
       "cell_para_a": 0
     },
     {
@@ -29,7 +29,7 @@
       "stage_id": 1,
       "line_x": 4,
       "line_y": 1,
-      "cell_type": 1,
+      "cell_type": 2,
       "cell_para_a": 0
     },
     {
@@ -37,7 +37,7 @@
       "stage_id": 1,
       "line_x": 5,
       "line_y": 1,
-      "cell_type": 1,
+      "cell_type": 2,
       "cell_para_a": 0
     },
     {
